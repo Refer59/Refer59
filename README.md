@@ -34,14 +34,6 @@ Full-stack developer specialized in delivering creative solutions across all lay
 | **Cloud & DevOps** | AWS, Google Cloud, Firebase, DigitalOcean, GitHub Actions, Nginx, IIS |
 | **Languages** | JavaScript, TypeScript, C#, C/C++, Java, Rust, Python |
 
-### 💼 Currently
-
-Full-Stack Developer at **Didcom** — architecture, cloud infrastructure, CI/CD and team leadership.
-
-### 🎓 Education
-
-Bachelor's Degree in Mechatronics Engineering — Instituto Tecnológico de Hermosillo (2023)
-
 ---
 
 <p align="center"><sub>🇲🇽 También hablo español — <a href="https://www.ivangerardo.com/es">ver mi CV en español</a></sub></p>
